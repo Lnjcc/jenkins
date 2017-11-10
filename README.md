@@ -1,2 +1,2 @@
 # jenkins lnj
-   cxf
+   cxf  lnj
